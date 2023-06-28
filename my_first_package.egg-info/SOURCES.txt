@@ -1,0 +1,8 @@
+setup.py
+my_first_package/__init__.py
+my_first_package/modulo1.py
+my_first_package/modulo2.py
+my_first_package.egg-info/PKG-INFO
+my_first_package.egg-info/SOURCES.txt
+my_first_package.egg-info/dependency_links.txt
+my_first_package.egg-info/top_level.txt
